@@ -9,7 +9,7 @@ Highscore competitivo: ¡Compite con otros jugadores para alcanzar el highscore 
 Interfaz amigable: El juego cuenta con una interfaz atractiva y fácil de usar, que te sumergirá en la emoción de la adivinanza.
 Desarrollado con tecnologías web: Guess My Number utiliza tecnologías web estándar como HTML, CSS y JavaScript, lo que lo hace accesible desde cualquier navegador.
 # ¿Cómo jugar?
-Ingresa un número en el campo de entrada y presiona "Adivinar".
+Ingresa un número en el campo de entrada y presiona "Check".
 Recibirás una pista para saber si tu número es mayor o menor que el número secreto.
 Sigue adivinando hasta descubrir el número secreto en la menor cantidad de intentos.
 # Comienza a jugar
